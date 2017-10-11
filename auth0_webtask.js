@@ -1,3 +1,6 @@
+// This webtask is probably live here
+// https://wt-f6cb6a37625ca2da5d447cb19f4b4a27-0.run.webtask.io/Auth0ShaunLuttin
+
 var jwtDecode = require("jwt-decode");
 
 module.exports = function(context, cb) {
